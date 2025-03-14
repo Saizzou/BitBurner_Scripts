@@ -3,7 +3,7 @@ My Bit Burner Scripts
 
 ! More Explanations coming soon !
 
-Usage: run automate.js <loop> <refresh time> | run atuomate.js 
+Usage: run automate.js <loop> <refresh time> | run automate.js 
   - loop: How many times automate.js should run. Use '0' for endless mode.
   - refresh time: Wait time in minutes after each loop.
 
