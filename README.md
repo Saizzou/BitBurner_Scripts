@@ -1,13 +1,11 @@
 <div align="center">
-<h1 align="center">BitBurner</h1>
+<h1 align="center">BitBurner Automation</h1>
 <img align="center" alt="Screenshot" src="Screenshot.png" >
 </div>
 <br>
 <br />
 
-# BitBurner
-My BitBurner Scripts
-
+# My BitBurner Scripts
 ! More Explanations coming soon !
 
 Usage: run automate.js \<loop\> \<refresh time\> \<--home\> | run automate.js 
