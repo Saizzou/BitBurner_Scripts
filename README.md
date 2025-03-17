@@ -1,5 +1,12 @@
-# BitBurner_Scripts
-My Bit Burner Scripts
+<div align="center">
+<h1 align="center">BitBurner</h1>
+<img align="center" alt="Screenshot" src="Screenshot.png" >
+</div>
+<br>
+<br />
+
+# BitBurner
+My BitBurner Scripts
 
 ! More Explanations coming soon !
 
